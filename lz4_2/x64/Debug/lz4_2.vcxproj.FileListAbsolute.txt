@@ -1,0 +1,5 @@
+D:\Льоша\lz4_2\x64\Debug\lz4_2.vcxproj.AssemblyReference.cache
+D:\Льоша\lz4_2\x64\Debug\lz4_2.vcxproj.SuggestedBindingRedirects.cache
+D:\Льоша\lz4_2\x64\Debug\lz42.MyForm.resources
+D:\Льоша\lz4_2\x64\Debug\lz4_2.vcxproj.GenerateResource.cache
+D:\Льоша\lz4_2\x64\Debug\lz4_2.exe
